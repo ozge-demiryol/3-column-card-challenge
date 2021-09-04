@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3-column-card-preview-challenge/static/css/main.1be84b22.chunk.css",
+    "main.js": "/3-column-card-preview-challenge/static/js/main.7cdd373c.chunk.js",
+    "main.js.map": "/3-column-card-preview-challenge/static/js/main.7cdd373c.chunk.js.map",
+    "runtime-main.js": "/3-column-card-preview-challenge/static/js/runtime-main.a09d6796.js",
+    "runtime-main.js.map": "/3-column-card-preview-challenge/static/js/runtime-main.a09d6796.js.map",
+    "static/js/2.edafe750.chunk.js": "/3-column-card-preview-challenge/static/js/2.edafe750.chunk.js",
+    "static/js/2.edafe750.chunk.js.map": "/3-column-card-preview-challenge/static/js/2.edafe750.chunk.js.map",
+    "index.html": "/3-column-card-preview-challenge/index.html",
+    "static/css/main.1be84b22.chunk.css.map": "/3-column-card-preview-challenge/static/css/main.1be84b22.chunk.css.map",
+    "static/js/2.edafe750.chunk.js.LICENSE.txt": "/3-column-card-preview-challenge/static/js/2.edafe750.chunk.js.LICENSE.txt",
+    "static/media/icon-luxury.7d6e1aef.svg": "/3-column-card-preview-challenge/static/media/icon-luxury.7d6e1aef.svg",
+    "static/media/icon-sedans.e7945028.svg": "/3-column-card-preview-challenge/static/media/icon-sedans.e7945028.svg",
+    "static/media/icon-suvs.058b664c.svg": "/3-column-card-preview-challenge/static/media/icon-suvs.058b664c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a09d6796.js",
+    "static/js/2.edafe750.chunk.js",
+    "static/css/main.1be84b22.chunk.css",
+    "static/js/main.7cdd373c.chunk.js"
+  ]
+}
