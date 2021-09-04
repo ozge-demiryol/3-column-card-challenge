@@ -20,8 +20,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/3-column-preview-card-challenge-with-reactjs--4yT_UR--
+- Live Site URL: https://ozge-demiryol.github.io/3-column-card-preview-challenge/
 
 ## My process
 
